@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  otomat.cpp
 //  otomat
 //
 //  Created by Eon147 2.12.2022.
