@@ -2,7 +2,7 @@
 //  otomat.cpp
 //  otomat
 //
-//  Created by Eon147 2.12.2022.
+//  Created by Eon147 2.12.2022
 //
 #include <stdio.h>
 
