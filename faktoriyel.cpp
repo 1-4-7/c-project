@@ -1,5 +1,5 @@
 //
-//  faktoriyel.cpp
+//  main.cpp
 //  Fonksiyon ile faktoriyel alma
 //
 //  Created by Eon147 10.12.2022

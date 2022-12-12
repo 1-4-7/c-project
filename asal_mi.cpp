@@ -1,5 +1,5 @@
 //
-//  asal_mi.cpp
+//  main.cpp
 //  fonksiyon ile asalmi degil mi
 //
 //  Created by Eon147 10.12.2022
